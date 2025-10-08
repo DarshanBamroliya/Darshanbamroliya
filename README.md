@@ -31,15 +31,6 @@ I'm a passionate **Frontend Developer** with hands-on experience in building res
 
 ---
 
-## Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Portfolio Website | Personal portfolio built with Next.js & Tailwind CSS | [View](https://yourportfolio.com) |
-| Blog Website | Full-stack blog with Next.js and MongoDB | [View](https://blog-example.com) |
-| E-commerce Template | React + Node.js project with product pages & cart | [View](https://ecommerce-example.com) |
-
----
-
 ## GitHub Stats
 ![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshanBamroliya&show_icons=true&theme=radical)
 
