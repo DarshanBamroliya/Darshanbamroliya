@@ -22,8 +22,8 @@
 
 ## My most recent projects
 - [Portfolio Website](https://yourportfolio.com) – Personal portfolio built with Next.js & Tailwind CSS  [Under maintance]
-- [Blog Website](https://blog-example.com) – Full-stack blog with Next.js & MongoDB  
-- [E-commerce Template](https://gocartshop.in/) – React + Node.js project with product pages & cart  
+- [QuickShow](https://quickshow.vercel.app/) – Full-stack Movie Ticket Booking App using MERN Stack (MongoDB, Express.js, React.js,
+- [E-commerce Website](https://gocartshop.in/) – React + Node.js project with product pages & cart  
 
 ---
 
