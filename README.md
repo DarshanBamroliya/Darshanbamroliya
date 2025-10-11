@@ -28,7 +28,7 @@
 ---
 
 If you like my work, consider treating me to a cup of coffee ☕  
-[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/darshanbamroliya)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/darshan)
 
 ---
 
